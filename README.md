@@ -1,1 +1,1 @@
-# test-equipe
+# calcul-c-equipe
