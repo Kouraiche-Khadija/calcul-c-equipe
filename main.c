@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Projet collaboratif\n");
+    printf("Projet collaboratif");
+    printf("\n);
     return 0;
 }
