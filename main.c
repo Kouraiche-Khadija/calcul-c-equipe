@@ -7,7 +7,7 @@ int produit(int a, int b) {
 int main() {
     int a = 3, b = 4;
 
-    printf("Projet collaboratif\n");
+    printf("Message depuis main \n");
     printf("Produit : %d\n", produit(a, b));
 
     return 0;
